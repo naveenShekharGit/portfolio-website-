@@ -303,13 +303,13 @@ export const projects = [
     title: "Ecommerce",
     date: "Jan 2024 - Mar 2024",
     description:
-      `Dive into the world of advanced e-commerce development with our comprehensive tutorial! Learn to build a sophisticated e-commerce platform from scratch using the MEARN stack (MongoDB, Express.js, Angular, React, Node.js). Our guide covers all the essential features to ensure a seamless shopping experience.
+      `Dive into the world of advanced e-commerce development with my comprehensive project! Built from scratch using the MEARN stack (MongoDB, Express.js, Angular, React, Node.js), this sophisticated e-commerce platform includes all essential features to ensure a seamless shopping experience.
 
-Implement robust filtering and search functionality, allowing users to find products quickly. Manage the cart with ease, enabling users to add, update, and remove items effortlessly. Integrate Stripe for secure payment processing, ensuring smooth transactions. Enhance the product viewing experience with an image zoom feature for detailed views.
+I implemented robust filtering and search functionality, allowing users to find products quickly. The cart management system enables users to add, update, and remove items effortlessly. Secure payment processing is integrated with Stripe, ensuring smooth transactions. The product viewing experience is enhanced with an image zoom feature for detailed views.
 
-Ensure proper data management with CRUD operations for products, keeping your inventory up-to-date. Secure the platform with JWT authentication to protect user data. Develop an order page for users to view purchase history and an admin panel for efficient order management.
+The platform ensures proper data management with CRUD operations for products, keeping the inventory up-to-date. User data is protected with JWT authentication. There is an order page for users to view purchase history and an admin panel for efficient order management.
 
-Our platform is fully responsive, providing an optimal experience on both mobile and desktop devices. The modern UI guarantees easy navigation and interaction. Deployed on Vercel for reliable hosting and managed on GitHub for collaboration and version control, our tutorial offers valuable insights for both beginners and experienced developers. Join us and elevate your web development skills by building a cutting-edge e-commerce platform!`,
+Fully responsive, the platform provides an optimal experience on both mobile and desktop devices. The modern UI guarantees easy navigation and interaction. It is deployed on Vercel for reliable hosting and managed on GitHub for collaboration and version control. This project showcases valuable insights and skills in building a cutting-edge e-commerce platform. Join me and explore the future of web development!`,
     image: ecommerce,
     tags: [
       "React Js",
