@@ -15,7 +15,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/naveenShekharGit",
   resume:
-    "https://drive.google.com/file/d/1jLqWSw_FPtLmPpvcIuG2Da2RqPOXXFt7/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1jvBA9Jx4WjeEQhhulI65OazF_kxaH8Cw/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/naveen-shekhar-mishra-4838a6254/",
   github: "https://github.com/naveenShekharGit",
   leetcode: "https://leetcode.com/u/naveenshekhar352000/",
